@@ -3,10 +3,10 @@
 A passionate frontend developer from Taiwan🇹🇼, living in Taipei.
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=VsCode&logoColor=white)
 ![](https://img.shields.io/badge/Editor-Cusor-informational?style=flat&logo=cursor&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
-
 
 ## Stats
 
@@ -15,6 +15,7 @@ A passionate frontend developer from Taiwan🇹🇼, living in Taipei.
 
 [![wakatime](https://wakatime.com/badge/user/f2e75beb-aff4-47ed-aeff-347e6daef3f2.svg)](https://wakatime.com/@f2e75beb-aff4-47ed-aeff-347e6daef3f2)
 
+## Coding time at last 7 Days:
 
 <!--START_SECTION:waka-->
 
