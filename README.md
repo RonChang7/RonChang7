@@ -14,3 +14,7 @@ A passionate frontend developer from Taiwan🇹🇼, living in Taipei.
 <p><img src="https://github-readme-stats-j1ws-rctx6j2fo-ron-chang1.vercel.app/api?username=RonChang7&show_icons=true&locale=en&theme=dracula&count_private=true&v=2" alt="RonChang7" /></p>
 
 [![wakatime](https://wakatime.com/badge/user/f2e75beb-aff4-47ed-aeff-347e6daef3f2.svg)](https://wakatime.com/@f2e75beb-aff4-47ed-aeff-347e6daef3f2)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
