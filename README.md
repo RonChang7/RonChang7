@@ -5,7 +5,7 @@ A passionate frontend developer from Taiwan🇹🇼, living in Taipei.
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-Cusor-informational?style=flat&logo=cursor&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
 
 ## Stats
 
