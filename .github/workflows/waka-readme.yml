@@ -20,4 +20,4 @@ jobs:
           SHOW_SHORT_INFO: False
           SHOW_LOC_CHART: False
           TIME_RANGE: last_7_days
-          # IGNORED_LANGUAGES: sh
+          IGNORED_LANGUAGES: Other
