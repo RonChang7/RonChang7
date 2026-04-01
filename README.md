@@ -19,10 +19,10 @@ A passionate frontend developer from Taiwan🇹🇼, living in Taipei.
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js        1 hr 1 min            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Markdown      58 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Image (svg)   30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-TypeScript    9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Vue.js        17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Image (svg)   16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+TypeScript    7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Markdown      4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
