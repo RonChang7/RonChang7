@@ -19,10 +19,10 @@ A passionate frontend developer from Taiwan🇹🇼, living in Taipei.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown           33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-TypeScript         33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Vue                13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Java Properties    9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TypeScript         33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Markdown           29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Vue                13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Java Properties    9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
