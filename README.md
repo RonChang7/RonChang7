@@ -19,10 +19,10 @@ A passionate frontend developer from Taiwan🇹🇼, living in Taipei.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown             7 hrs 13 mins         ████████▒░░░░░░░░░░░░░░░░   33.36 %
-JSON with Comments   40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-YAML                 31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Java                 4 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Markdown             9 hrs 15 mins         ████████░░░░░░░░░░░░░░░░░   31.43 %
+YAML                 1 hr 47 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+JSON with Comments   40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Groff                15 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
